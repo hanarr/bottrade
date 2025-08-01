@@ -3,7 +3,7 @@ from aiogram.utils import executor
 import requests
 import os
 
-API_TOKEN = os.getenv("API_TOKEN")
+API_TOKEN = 8092612300:AAH0rz8m6v9C5G2KD5Car-SffIo9M9cnoyc
 
 bot = Bot(token=8092612300:AAH0rz8m6v9C5G2KD5Car-SffIo9M9cnoyc)
 dp = Dispatcher(bot)
